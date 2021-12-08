@@ -1,1 +1,1 @@
-echo ($Ultimate kali installer)
+echo ("$Ultimate kali installer")
