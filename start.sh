@@ -32,3 +32,12 @@ pkg install git
 Pkg install wget
 
 echo $cyan INSTALLING.....
+
+echo $red "choose The way you want to install kali"
+echo $yellow
+|1|Nethunter rootless
+|2|kali light weight(GUI)
+|3|Kali ssh with 600+ tools
+|4|Kali ssh"
+if  [[ $1 = "1" ]]; then
+    
